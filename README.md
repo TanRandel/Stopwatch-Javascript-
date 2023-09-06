@@ -10,7 +10,7 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
--
+
 
 ## Features
 
